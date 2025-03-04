@@ -5,7 +5,7 @@ The ML Classification has been performed on Breast Cancer from SKLEARN Library
 *Key Components*
 
 - Loading and Preprocessing 
-- Classification Algorithm Implementation
+- Classification Algorithm Implementation :
   Implement the following five classification algorithms:
       1. Logistic Regression
       2. Decision Tree Classifier
